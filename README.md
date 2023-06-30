@@ -13,7 +13,7 @@ pip install requests
 ```bash
 python main.py
 ```
-# how to get discord token
+# how to get your discord token
 On pc you need to go to the discord website once the website is loaded you need to type 
 ```bash
 (webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()
@@ -22,3 +22,4 @@ now on mobile it's a bit different you need to download [Kiwi browser](https://p
 ```bash
 (webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()
 ```
+copy the token and the id of the channel you want to always type in and start the script
