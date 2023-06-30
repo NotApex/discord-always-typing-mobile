@@ -3,7 +3,7 @@ Makes you always show as typing in a specific discord channel
 
 # how to setup
 ```bash
-git clonehttps://github.com/NotApex/discord-always-typing-mobile/
+git clone https://github.com/NotApex/discord-always-typing-mobile/
 ```
 
 ```bash
