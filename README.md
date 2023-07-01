@@ -1,5 +1,6 @@
 # discord-always-typing-mobile
 Makes you always show as typing in a specific discord channel this is for termux btw
+video tut https://youtu.be/IjP-v2wfEhE
 
 # how to setup
 ```bash
